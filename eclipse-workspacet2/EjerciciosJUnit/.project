@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/NumeroTest.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Desktop/NumeroTest.java</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
