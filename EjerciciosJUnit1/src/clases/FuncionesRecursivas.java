@@ -24,6 +24,7 @@ public class FuncionesRecursivas {
 		
 		return potencia;
 	}
+
 	
 	public static int fibonacci(int numero) {
 		int result = 0;
@@ -36,7 +37,4 @@ public class FuncionesRecursivas {
 		return result;
 	}
 	
-	public static void main(String[] args) {
-		System.out.println(fibonacci(7));
-	}
 }
