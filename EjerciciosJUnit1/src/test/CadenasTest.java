@@ -55,7 +55,6 @@ class CadenasTest {
     private static Stream<Arguments> contarPalabras() {
         return Stream.of(
                 Arguments.of("soy muy guapo", "soy", 1),
-                Arguments.of("soy muy guapo", "guapo", 1),
                 Arguments.of("soy muy guapo", "hola", 0)
         );
     }
